@@ -1,0 +1,15 @@
+
+---
+
+## 📦 `requirements.txt`
+```text
+pandas
+numpy
+scikit-learn
+shap
+lime
+openai
+streamlit
+pytest
+pyyaml
+
