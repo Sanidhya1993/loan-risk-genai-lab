@@ -1,0 +1,251 @@
+Applicant_ID,Age,Income,Credit_Score,Job_Type,Loan_Amount,Loan_Type,Existing_Loan,Loan_Status,Notes
+APP0000,59,97505.0,389,Salaried,31838,Education,No,Rejected,Salaried applicant requesting Education loan of 31838 INR
+APP0001,49,22869.0,717,Salaried,7482,Education,Yes,Rejected,Salaried applicant requesting Education loan of 7482 INR
+APP0002,35,81135.0,414,Salaried,29442,Home,No,Rejected,Salaried applicant requesting Home loan of 29442 INR
+APP0003,28,70108.0,495,Salaried,38719,Personal,No,Rejected,Salaried applicant requesting Personal loan of 38719 INR
+APP0004,41,114179.0,800,Salaried,32965,Home,Yes,Rejected,Salaried applicant requesting Home loan of 32965 INR
+APP0005,59,110272.0,792,Salaried,7079,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 7079 INR
+APP0006,39,58467.0,374,Salaried,7717,Car,Yes,Rejected,Salaried applicant requesting Car loan of 7717 INR
+APP0007,43,43328.0,712,Salaried,32952,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 32952 INR
+APP0008,31,111412.0,675,Self-Employed,25908,Personal,No,Approved,Self-Employed applicant requesting Personal loan of 25908 INR
+APP0009,31,106831.0,719,Salaried,47460,Car,Yes,Rejected,Salaried applicant requesting Car loan of 47460 INR
+APP0010,44,23987.0,576,Self-Employed,29861,Personal,Yes,Rejected,Self-Employed applicant requesting Personal loan of 29861 INR
+APP0011,56,78871.0,693,Self-Employed,12311,Home,Yes,Rejected,Self-Employed applicant requesting Home loan of 12311 INR
+APP0012,44,,756,salried,Fifty Thousand,Personal,No,Approved,   
+APP0013,23,,491,salried,28570,Car,Yes,Rejected,urgent request!
+APP0014,42,119522.0,398,Unemployed,23449,Home,Yes,Rejected,Unemployed applicant requesting Home loan of 23449 INR
+APP0015,22,106416.0,847,Salaried,38536,Car,Yes,Rejected,Salaried applicant requesting Car loan of 38536 INR
+APP0016,44,90271.0,395,Salaried,43258,Car,No,Rejected,Salaried applicant requesting Car loan of 43258 INR
+APP0017,50,64064.0,489,Self-Employed,33865,Education,No,Rejected,Self-Employed applicant requesting Education loan of 33865 INR
+APP0018,58,90091.0,336,Self-Employed,11645,Education,Yes,Rejected,Self-Employed applicant requesting Education loan of 11645 INR
+APP0019,22,,668,Self Emp,43000,Car,Yes,Rejected,need loan asap.
+APP0020,41,65525.0,824,Salaried,31737,Car,No,Approved,Salaried applicant requesting Car loan of 31737 INR
+APP0021,53,39830.0,578,Salaried,16485,Car,No,Rejected,Salaried applicant requesting Car loan of 16485 INR
+APP0022,32,37429.0,516,Salaried,43565,Education,Yes,Rejected,Salaried applicant requesting Education loan of 43565 INR
+APP0023,42,,572,salried,30522,Education,No,Rejected,
+APP0024,45,99909.0,361,Salaried,17342,Personal,No,Rejected,Salaried applicant requesting Personal loan of 17342 INR
+APP0025,47,67333.0,641,Salaried,45806,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 45806 INR
+APP0026,48,23436.0,696,Self-Employed,18087,Car,No,Rejected,Self-Employed applicant requesting Car loan of 18087 INR
+APP0027,36,94290.0,318,Salaried,42641,Home,No,Rejected,Salaried applicant requesting Home loan of 42641 INR
+APP0028,35,96213.0,476,Salaried,39249,Home,No,Rejected,Salaried applicant requesting Home loan of 39249 INR
+APP0029,23,25895.0,695,Self-Employed,15093,Education,Yes,Rejected,Self-Employed applicant requesting Education loan of 15093 INR
+APP0030,57,39738.0,744,Self-Employed,21438,Education,Yes,Rejected,Self-Employed applicant requesting Education loan of 21438 INR
+APP0031,27,50746.0,532,Salaried,45411,Education,No,Rejected,Salaried applicant requesting Education loan of 45411 INR
+APP0032,41,69377.0,375,Salaried,31399,Car,No,Rejected,Salaried applicant requesting Car loan of 31399 INR
+APP0033,29,68404.0,564,Salaried,24846,Home,No,Rejected,Salaried applicant requesting Home loan of 24846 INR
+APP0034,59,74045.0,754,Salaried,20708,Personal,No,Approved,Salaried applicant requesting Personal loan of 20708 INR
+APP0035,38,117888.0,683,Salaried,49039,Car,No,Approved,Salaried applicant requesting Car loan of 49039 INR
+APP0036,24,59790.0,805,Salaried,15998,Personal,No,Rejected,Salaried applicant requesting Personal loan of 15998 INR
+APP0037,45,25600.0,666,Salaried,35678,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 35678 INR
+APP0038,34,114660.0,443,Salaried,15682,Car,Yes,Rejected,Salaried applicant requesting Car loan of 15682 INR
+APP0039,29,113179.0,368,Salaried,13519,Personal,No,Rejected,Salaried applicant requesting Personal loan of 13519 INR
+APP0040,46,60764.0,398,Salaried,36480,Home,Yes,Rejected,Salaried applicant requesting Home loan of 36480 INR
+APP0041,22,94543.0,695,Salaried,24694,Personal,No,Rejected,Salaried applicant requesting Personal loan of 24694 INR
+APP0042,40,65714.0,324,Salaried,8300,Home,Yes,Rejected,Salaried applicant requesting Home loan of 8300 INR
+APP0043,48,76835.0,768,Salaried,11722,Home,Yes,Rejected,Salaried applicant requesting Home loan of 11722 INR
+APP0044,27,93744.0,783,Self-Employed,44986,Home,Yes,Rejected,Self-Employed applicant requesting Home loan of 44986 INR
+APP0045,28,76491.0,450,Salaried,29160,Education,No,Rejected,Salaried applicant requesting Education loan of 29160 INR
+APP0046,55,38589.0,443,Self-Employed,25059,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 25059 INR
+APP0047,34,63484.0,338,Self-Employed,40822,Car,Yes,Rejected,Self-Employed applicant requesting Car loan of 40822 INR
+APP0048,37,,408,salried,Fifty Thousand,Car,No,Rejected,urgent request!
+APP0049,56,56212.0,341,Salaried,12970,Personal,No,Rejected,Salaried applicant requesting Personal loan of 12970 INR
+APP0050,24,63525.0,485,Salaried,39911,Education,No,Rejected,Salaried applicant requesting Education loan of 39911 INR
+APP0051,22,67202.0,697,Salaried,26591,Education,Yes,Rejected,Salaried applicant requesting Education loan of 26591 INR
+APP0052,26,52635.0,522,Self-Employed,36821,Home,No,Rejected,Self-Employed applicant requesting Home loan of 36821 INR
+APP0053,24,83208.0,432,Salaried,14503,Personal,No,Rejected,Salaried applicant requesting Personal loan of 14503 INR
+APP0054,49,53828.0,462,Salaried,23922,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 23922 INR
+APP0055,38,38711.0,514,Salaried,17175,Car,Yes,Rejected,Salaried applicant requesting Car loan of 17175 INR
+APP0056,46,23420.0,534,Salaried,46124,Personal,No,Rejected,Salaried applicant requesting Personal loan of 46124 INR
+APP0057,54,116752.0,308,Self-Employed,26389,Education,No,Rejected,Self-Employed applicant requesting Education loan of 26389 INR
+APP0058,30,20301.0,373,Salaried,5822,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 5822 INR
+APP0059,56,65236.0,791,Salaried,22327,Car,No,Approved,Salaried applicant requesting Car loan of 22327 INR
+APP0060,34,,552,unemployd,Fifty Thousand,Home,No,Rejected,   
+APP0061,51,74240.0,529,Self-Employed,9425,Car,No,Rejected,Self-Employed applicant requesting Car loan of 9425 INR
+APP0062,35,85726.0,818,Salaried,21032,Car,No,Approved,Salaried applicant requesting Car loan of 21032 INR
+APP0063,28,,473,,7198,Home,No,Rejected,manual review needed
+APP0064,34,26102.0,467,Salaried,25079,Car,No,Rejected,Salaried applicant requesting Car loan of 25079 INR
+APP0065,43,70336.0,469,Salaried,41220,Car,Yes,Rejected,Salaried applicant requesting Car loan of 41220 INR
+APP0066,41,105314.0,692,Salaried,46874,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 46874 INR
+APP0067,36,46641.0,493,Salaried,18859,Personal,No,Rejected,Salaried applicant requesting Personal loan of 18859 INR
+APP0068,38,,816,Self Emp,Fifty Thousand,Home,No,Approved,
+APP0069,44,52745.0,328,Salaried,13705,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 13705 INR
+APP0070,46,43093.0,464,Self-Employed,47880,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 47880 INR
+APP0071,45,86105.0,721,Salaried,28236,Car,No,Approved,Salaried applicant requesting Car loan of 28236 INR
+APP0072,49,71885.0,638,Salaried,27419,Education,No,Rejected,Salaried applicant requesting Education loan of 27419 INR
+APP0073,35,56631.0,795,Salaried,24978,Personal,No,Approved,Salaried applicant requesting Personal loan of 24978 INR
+APP0074,21,,664,salried,Fifty Thousand,Education,No,Rejected,need loan asap.
+APP0075,45,24014.0,641,Salaried,20358,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 20358 INR
+APP0076,27,31093.0,799,Salaried,39177,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 39177 INR
+APP0077,29,,810,,34378,Home,Yes,Rejected,need loan asap.
+APP0078,44,55777.0,626,Self-Employed,42334,Home,Yes,Rejected,Self-Employed applicant requesting Home loan of 42334 INR
+APP0079,21,76958.0,516,Self-Employed,16382,Home,No,Rejected,Self-Employed applicant requesting Home loan of 16382 INR
+APP0080,28,102074.0,600,Salaried,19596,Education,No,Rejected,Salaried applicant requesting Education loan of 19596 INR
+APP0081,44,30729.0,431,Salaried,38572,Car,Yes,Rejected,Salaried applicant requesting Car loan of 38572 INR
+APP0082,31,119713.0,369,Self-Employed,18221,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 18221 INR
+APP0083,37,65017.0,551,Unemployed,6279,Personal,Yes,Rejected,Unemployed applicant requesting Personal loan of 6279 INR
+APP0084,28,86320.0,714,Salaried,12083,Personal,No,Approved,Salaried applicant requesting Personal loan of 12083 INR
+APP0085,55,47751.0,744,Salaried,48861,Education,No,Approved,Salaried applicant requesting Education loan of 48861 INR
+APP0086,55,98069.0,481,Salaried,22771,Home,Yes,Rejected,Salaried applicant requesting Home loan of 22771 INR
+APP0087,53,74748.0,466,Self-Employed,34975,Car,No,Rejected,Self-Employed applicant requesting Car loan of 34975 INR
+APP0088,25,25801.0,390,Salaried,24063,Education,Yes,Rejected,Salaried applicant requesting Education loan of 24063 INR
+APP0089,59,39190.0,830,Salaried,7106,Home,No,Rejected,Salaried applicant requesting Home loan of 7106 INR
+APP0090,48,69689.0,338,Salaried,29557,Education,No,Rejected,Salaried applicant requesting Education loan of 29557 INR
+APP0091,27,70993.0,425,Salaried,25607,Car,Yes,Rejected,Salaried applicant requesting Car loan of 25607 INR
+APP0092,29,49592.0,750,Salaried,42599,Home,No,Approved,Salaried applicant requesting Home loan of 42599 INR
+APP0093,28,30647.0,472,Salaried,33529,Education,Yes,Rejected,Salaried applicant requesting Education loan of 33529 INR
+APP0094,32,28716.0,519,Self-Employed,40954,Car,Yes,Rejected,Self-Employed applicant requesting Car loan of 40954 INR
+APP0095,54,108891.0,357,Salaried,32856,Personal,No,Rejected,Salaried applicant requesting Personal loan of 32856 INR
+APP0096,53,107545.0,775,Salaried,7573,Car,Yes,Rejected,Salaried applicant requesting Car loan of 7573 INR
+APP0097,43,109912.0,755,Salaried,17808,Personal,No,Approved,Salaried applicant requesting Personal loan of 17808 INR
+APP0098,44,90316.0,660,Salaried,40367,Education,No,Approved,Salaried applicant requesting Education loan of 40367 INR
+APP0099,57,22368.0,300,Salaried,41801,Home,No,Rejected,Salaried applicant requesting Home loan of 41801 INR
+APP0100,55,97575.0,686,Salaried,46196,Home,Yes,Rejected,Salaried applicant requesting Home loan of 46196 INR
+APP0101,42,26655.0,647,Salaried,39072,Education,No,Rejected,Salaried applicant requesting Education loan of 39072 INR
+APP0102,47,90031.0,489,Salaried,28752,Home,No,Rejected,Salaried applicant requesting Home loan of 28752 INR
+APP0103,55,96429.0,804,Salaried,22685,Home,Yes,Rejected,Salaried applicant requesting Home loan of 22685 INR
+APP0104,21,111083.0,490,Unemployed,46401,Personal,No,Rejected,Unemployed applicant requesting Personal loan of 46401 INR
+APP0105,55,107922.0,807,Salaried,16372,Education,No,Approved,Salaried applicant requesting Education loan of 16372 INR
+APP0106,57,75766.0,668,Self-Employed,13996,Car,No,Approved,Self-Employed applicant requesting Car loan of 13996 INR
+APP0107,34,33403.0,708,Salaried,21458,Personal,No,Rejected,Salaried applicant requesting Personal loan of 21458 INR
+APP0108,23,,416,unemployd,Fifty Thousand,Education,No,Rejected,
+APP0109,21,98657.0,433,Self-Employed,31665,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 31665 INR
+APP0110,25,30966.0,357,Salaried,43243,Car,No,Rejected,Salaried applicant requesting Car loan of 43243 INR
+APP0111,46,,472,Self Emp,36653,Car,No,Rejected,urgent request!
+APP0112,34,113848.0,448,Salaried,31657,Education,Yes,Rejected,Salaried applicant requesting Education loan of 31657 INR
+APP0113,59,72921.0,379,Salaried,44952,Car,Yes,Rejected,Salaried applicant requesting Car loan of 44952 INR
+APP0114,47,69726.0,512,Unemployed,27180,Personal,No,Rejected,Unemployed applicant requesting Personal loan of 27180 INR
+APP0115,29,,502,,36896,Car,Yes,Rejected,urgent request!
+APP0116,35,42677.0,528,Unemployed,17875,Personal,No,Rejected,Unemployed applicant requesting Personal loan of 17875 INR
+APP0117,35,75609.0,526,Salaried,6622,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 6622 INR
+APP0118,46,116825.0,831,Self-Employed,45809,Car,Yes,Rejected,Self-Employed applicant requesting Car loan of 45809 INR
+APP0119,33,76661.0,740,Unemployed,21725,Education,No,Approved,Unemployed applicant requesting Education loan of 21725 INR
+APP0120,52,51024.0,701,Salaried,45760,Home,No,Approved,Salaried applicant requesting Home loan of 45760 INR
+APP0121,59,90313.0,346,Salaried,20646,Car,Yes,Rejected,Salaried applicant requesting Car loan of 20646 INR
+APP0122,52,73006.0,532,Self-Employed,22029,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 22029 INR
+APP0123,24,,604,unemployd,34402,Personal,No,Rejected,
+APP0124,50,35338.0,825,Self-Employed,9263,Car,Yes,Rejected,Self-Employed applicant requesting Car loan of 9263 INR
+APP0125,57,,442,Self Emp,35987,Education,No,Rejected,urgent request!
+APP0126,43,112772.0,714,Self-Employed,13646,Education,Yes,Rejected,Self-Employed applicant requesting Education loan of 13646 INR
+APP0127,59,100135.0,812,Salaried,32529,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 32529 INR
+APP0128,35,39508.0,672,Salaried,16664,Personal,No,Rejected,Salaried applicant requesting Personal loan of 16664 INR
+APP0129,49,23051.0,558,Salaried,40737,Education,Yes,Rejected,Salaried applicant requesting Education loan of 40737 INR
+APP0130,56,68747.0,770,Self-Employed,40796,Home,No,Approved,Self-Employed applicant requesting Home loan of 40796 INR
+APP0131,33,107142.0,311,Self-Employed,29027,Car,No,Rejected,Self-Employed applicant requesting Car loan of 29027 INR
+APP0132,52,107235.0,629,Salaried,34373,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 34373 INR
+APP0133,27,,657,unemployd,41397,Personal,No,Approved,urgent request!
+APP0134,42,86412.0,707,Self-Employed,25609,Education,No,Approved,Self-Employed applicant requesting Education loan of 25609 INR
+APP0135,48,78335.0,672,Salaried,40835,Car,Yes,Rejected,Salaried applicant requesting Car loan of 40835 INR
+APP0136,22,76179.0,307,Self-Employed,43709,Education,No,Rejected,Self-Employed applicant requesting Education loan of 43709 INR
+APP0137,26,52093.0,421,Salaried,24250,Car,No,Rejected,Salaried applicant requesting Car loan of 24250 INR
+APP0138,48,89678.0,647,Salaried,26172,Car,No,Rejected,Salaried applicant requesting Car loan of 26172 INR
+APP0139,48,100738.0,389,Salaried,16555,Car,No,Rejected,Salaried applicant requesting Car loan of 16555 INR
+APP0140,40,,615,unemployd,Fifty Thousand,Personal,Yes,Rejected,need loan asap.
+APP0141,50,92615.0,477,Self-Employed,18081,Home,No,Rejected,Self-Employed applicant requesting Home loan of 18081 INR
+APP0142,31,93523.0,839,Salaried,29063,Education,No,Approved,Salaried applicant requesting Education loan of 29063 INR
+APP0143,48,114476.0,340,Salaried,11819,Home,No,Rejected,Salaried applicant requesting Home loan of 11819 INR
+APP0144,45,37019.0,801,Self-Employed,30712,Education,No,Rejected,Self-Employed applicant requesting Education loan of 30712 INR
+APP0145,59,103613.0,444,Salaried,29762,Car,No,Rejected,Salaried applicant requesting Car loan of 29762 INR
+APP0146,53,111794.0,500,Salaried,16046,Personal,No,Rejected,Salaried applicant requesting Personal loan of 16046 INR
+APP0147,21,106672.0,760,Unemployed,36463,Home,No,Rejected,Unemployed applicant requesting Home loan of 36463 INR
+APP0148,47,93847.0,846,Self-Employed,33769,Personal,No,Approved,Self-Employed applicant requesting Personal loan of 33769 INR
+APP0149,33,102750.0,552,Salaried,28150,Education,No,Rejected,Salaried applicant requesting Education loan of 28150 INR
+APP0150,23,99634.0,689,Unemployed,7711,Personal,No,Rejected,Unemployed applicant requesting Personal loan of 7711 INR
+APP0151,59,48251.0,555,Self-Employed,9853,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 9853 INR
+APP0152,26,45945.0,749,Salaried,34077,Home,Yes,Rejected,Salaried applicant requesting Home loan of 34077 INR
+APP0153,28,110852.0,309,Salaried,28863,Car,Yes,Rejected,Salaried applicant requesting Car loan of 28863 INR
+APP0154,47,,541,,Fifty Thousand,Personal,No,Rejected,   
+APP0155,29,28308.0,550,Self-Employed,45483,Car,No,Rejected,Self-Employed applicant requesting Car loan of 45483 INR
+APP0156,57,25949.0,304,Salaried,13942,Education,No,Rejected,Salaried applicant requesting Education loan of 13942 INR
+APP0157,53,71990.0,418,Self-Employed,6762,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 6762 INR
+APP0158,44,21150.0,673,Self-Employed,36987,Home,No,Rejected,Self-Employed applicant requesting Home loan of 36987 INR
+APP0159,35,109480.0,364,Salaried,20850,Education,No,Rejected,Salaried applicant requesting Education loan of 20850 INR
+APP0160,52,94740.0,445,Salaried,17112,Education,Yes,Rejected,Salaried applicant requesting Education loan of 17112 INR
+APP0161,52,86617.0,523,Salaried,29058,Home,No,Rejected,Salaried applicant requesting Home loan of 29058 INR
+APP0162,44,114841.0,538,Self-Employed,43890,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 43890 INR
+APP0163,32,36896.0,476,Salaried,5481,Personal,No,Rejected,Salaried applicant requesting Personal loan of 5481 INR
+APP0164,59,66175.0,581,Salaried,37921,Education,No,Rejected,Salaried applicant requesting Education loan of 37921 INR
+APP0165,22,27805.0,362,Self-Employed,45385,Personal,Yes,Rejected,Self-Employed applicant requesting Personal loan of 45385 INR
+APP0166,23,25237.0,516,Self-Employed,6524,Car,Yes,Rejected,Self-Employed applicant requesting Car loan of 6524 INR
+APP0167,57,40056.0,760,Salaried,39888,Home,Yes,Rejected,Salaried applicant requesting Home loan of 39888 INR
+APP0168,37,65543.0,404,Self-Employed,20048,Car,No,Rejected,Self-Employed applicant requesting Car loan of 20048 INR
+APP0169,22,76556.0,398,Salaried,40111,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 40111 INR
+APP0170,22,,810,,Fifty Thousand,Education,No,Rejected,manual review needed
+APP0171,48,,684,,39008,Home,No,Rejected,manual review needed
+APP0172,43,73222.0,704,Salaried,5060,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 5060 INR
+APP0173,57,49375.0,817,Self-Employed,14130,Personal,No,Approved,Self-Employed applicant requesting Personal loan of 14130 INR
+APP0174,52,,775,Self Emp,Fifty Thousand,Education,Yes,Rejected,manual review needed
+APP0175,53,36964.0,736,Salaried,18350,Education,No,Rejected,Salaried applicant requesting Education loan of 18350 INR
+APP0176,21,79638.0,322,Self-Employed,29354,Car,Yes,Rejected,Self-Employed applicant requesting Car loan of 29354 INR
+APP0177,39,93666.0,757,Self-Employed,33145,Home,No,Approved,Self-Employed applicant requesting Home loan of 33145 INR
+APP0178,22,105067.0,382,Self-Employed,39020,Home,Yes,Rejected,Self-Employed applicant requesting Home loan of 39020 INR
+APP0179,46,87215.0,444,Self-Employed,25587,Education,No,Rejected,Self-Employed applicant requesting Education loan of 25587 INR
+APP0180,52,89042.0,384,Salaried,46131,Car,No,Rejected,Salaried applicant requesting Car loan of 46131 INR
+APP0181,26,,377,unemployd,14650,Home,No,Rejected,urgent request!
+APP0182,52,92789.0,756,Salaried,24933,Education,No,Approved,Salaried applicant requesting Education loan of 24933 INR
+APP0183,24,104664.0,300,Salaried,25581,Personal,No,Rejected,Salaried applicant requesting Personal loan of 25581 INR
+APP0184,31,,350,salried,Fifty Thousand,Home,No,Rejected,   
+APP0185,37,81389.0,745,Salaried,28051,Car,No,Approved,Salaried applicant requesting Car loan of 28051 INR
+APP0186,58,29435.0,748,Salaried,31212,Car,No,Rejected,Salaried applicant requesting Car loan of 31212 INR
+APP0187,44,74340.0,787,Salaried,9090,Car,No,Approved,Salaried applicant requesting Car loan of 9090 INR
+APP0188,25,64078.0,333,Unemployed,11960,Personal,No,Rejected,Unemployed applicant requesting Personal loan of 11960 INR
+APP0189,54,,647,salried,40772,Home,Yes,Rejected,   
+APP0190,26,71293.0,394,Salaried,26520,Home,Yes,Rejected,Salaried applicant requesting Home loan of 26520 INR
+APP0191,42,115981.0,371,Salaried,41408,Personal,No,Rejected,Salaried applicant requesting Personal loan of 41408 INR
+APP0192,31,,453,unemployd,Fifty Thousand,Home,No,Rejected,manual review needed
+APP0193,36,80403.0,549,Salaried,25491,Personal,No,Rejected,Salaried applicant requesting Personal loan of 25491 INR
+APP0194,53,49124.0,737,Self-Employed,6341,Personal,No,Approved,Self-Employed applicant requesting Personal loan of 6341 INR
+APP0195,29,,417,salried,49623,Personal,No,Rejected,urgent request!
+APP0196,26,63919.0,605,Salaried,29791,Car,Yes,Rejected,Salaried applicant requesting Car loan of 29791 INR
+APP0197,36,55247.0,567,Self-Employed,5338,Home,Yes,Rejected,Self-Employed applicant requesting Home loan of 5338 INR
+APP0198,49,114758.0,353,Unemployed,10895,Personal,Yes,Rejected,Unemployed applicant requesting Personal loan of 10895 INR
+APP0199,23,111747.0,535,Self-Employed,17254,Home,No,Rejected,Self-Employed applicant requesting Home loan of 17254 INR
+APP0200,40,82752.0,688,Salaried,16344,Car,No,Approved,Salaried applicant requesting Car loan of 16344 INR
+APP0201,56,76573.0,700,Salaried,6750,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 6750 INR
+APP0202,39,79101.0,602,Self-Employed,7421,Education,No,Rejected,Self-Employed applicant requesting Education loan of 7421 INR
+APP0203,46,46646.0,506,Salaried,44887,Car,No,Rejected,Salaried applicant requesting Car loan of 44887 INR
+APP0204,23,43049.0,528,Self-Employed,10319,Education,No,Rejected,Self-Employed applicant requesting Education loan of 10319 INR
+APP0205,39,99605.0,374,Unemployed,20896,Home,No,Rejected,Unemployed applicant requesting Home loan of 20896 INR
+APP0206,40,118116.0,734,Unemployed,16918,Home,Yes,Rejected,Unemployed applicant requesting Home loan of 16918 INR
+APP0207,52,117379.0,402,Salaried,30064,Car,No,Rejected,Salaried applicant requesting Car loan of 30064 INR
+APP0208,27,88385.0,721,Salaried,32935,Home,No,Approved,Salaried applicant requesting Home loan of 32935 INR
+APP0209,53,60158.0,605,Unemployed,42641,Education,Yes,Rejected,Unemployed applicant requesting Education loan of 42641 INR
+APP0210,59,85417.0,397,Self-Employed,34711,Personal,No,Rejected,Self-Employed applicant requesting Personal loan of 34711 INR
+APP0211,38,43289.0,634,Salaried,9806,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 9806 INR
+APP0212,21,29823.0,734,Unemployed,46360,Personal,No,Rejected,Unemployed applicant requesting Personal loan of 46360 INR
+APP0213,31,80160.0,746,Self-Employed,17182,Car,No,Approved,Self-Employed applicant requesting Car loan of 17182 INR
+APP0214,48,61975.0,607,Salaried,27297,Home,No,Rejected,Salaried applicant requesting Home loan of 27297 INR
+APP0215,45,29540.0,548,Salaried,24541,Education,No,Rejected,Salaried applicant requesting Education loan of 24541 INR
+APP0216,43,36364.0,465,Salaried,33921,Home,Yes,Rejected,Salaried applicant requesting Home loan of 33921 INR
+APP0217,51,24611.0,780,Salaried,21774,Home,No,Rejected,Salaried applicant requesting Home loan of 21774 INR
+APP0218,50,47663.0,634,Salaried,49813,Home,Yes,Rejected,Salaried applicant requesting Home loan of 49813 INR
+APP0219,55,71991.0,841,Self-Employed,42198,Personal,Yes,Rejected,Self-Employed applicant requesting Personal loan of 42198 INR
+APP0220,27,,405,salried,Fifty Thousand,Education,No,Rejected,need loan asap.
+APP0221,36,50977.0,380,Salaried,29070,Education,Yes,Rejected,Salaried applicant requesting Education loan of 29070 INR
+APP0222,46,114704.0,432,Salaried,9232,Home,No,Rejected,Salaried applicant requesting Home loan of 9232 INR
+APP0223,22,69115.0,437,Salaried,16122,Personal,No,Rejected,Salaried applicant requesting Personal loan of 16122 INR
+APP0224,21,111007.0,483,Unemployed,20023,Personal,Yes,Rejected,Unemployed applicant requesting Personal loan of 20023 INR
+APP0225,32,108223.0,700,Salaried,13007,Education,Yes,Rejected,Salaried applicant requesting Education loan of 13007 INR
+APP0226,25,80890.0,629,Salaried,22905,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 22905 INR
+APP0227,57,86387.0,807,Self-Employed,46786,Personal,No,Approved,Self-Employed applicant requesting Personal loan of 46786 INR
+APP0228,52,38071.0,368,Salaried,34398,Personal,No,Rejected,Salaried applicant requesting Personal loan of 34398 INR
+APP0229,29,79275.0,845,Salaried,39268,Car,Yes,Rejected,Salaried applicant requesting Car loan of 39268 INR
+APP0230,55,92369.0,352,Salaried,11737,Home,No,Rejected,Salaried applicant requesting Home loan of 11737 INR
+APP0231,39,31938.0,749,Salaried,41062,Education,No,Rejected,Salaried applicant requesting Education loan of 41062 INR
+APP0232,36,55195.0,504,Salaried,30510,Education,Yes,Rejected,Salaried applicant requesting Education loan of 30510 INR
+APP0233,23,111680.0,425,Salaried,24426,Car,No,Rejected,Salaried applicant requesting Car loan of 24426 INR
+APP0234,40,24000.0,342,Salaried,42265,Home,No,Rejected,Salaried applicant requesting Home loan of 42265 INR
+APP0235,44,90588.0,410,Unemployed,22850,Education,No,Rejected,Unemployed applicant requesting Education loan of 22850 INR
+APP0236,53,113610.0,482,Salaried,5614,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 5614 INR
+APP0237,44,,394,Self Emp,26776,Education,Yes,Rejected,manual review needed
+APP0238,31,58304.0,673,Self-Employed,29077,Personal,Yes,Rejected,Self-Employed applicant requesting Personal loan of 29077 INR
+APP0239,28,89449.0,819,Salaried,14374,Car,No,Approved,Salaried applicant requesting Car loan of 14374 INR
+APP0240,56,102986.0,659,Self-Employed,40435,Personal,Yes,Rejected,Self-Employed applicant requesting Personal loan of 40435 INR
+APP0241,58,109643.0,580,Salaried,35907,Education,No,Rejected,Salaried applicant requesting Education loan of 35907 INR
+APP0242,40,40764.0,494,Unemployed,18409,Education,No,Rejected,Unemployed applicant requesting Education loan of 18409 INR
+APP0243,55,106027.0,494,Salaried,21514,Education,No,Rejected,Salaried applicant requesting Education loan of 21514 INR
+APP0244,45,,392,unemployd,Fifty Thousand,Car,No,Rejected,need loan asap.
+APP0245,55,23373.0,360,Salaried,7983,Car,No,Rejected,Salaried applicant requesting Car loan of 7983 INR
+APP0246,45,32161.0,350,Unemployed,36705,Home,No,Rejected,Unemployed applicant requesting Home loan of 36705 INR
+APP0247,49,117532.0,702,Salaried,25662,Education,No,Approved,Salaried applicant requesting Education loan of 25662 INR
+APP0248,38,112658.0,304,Salaried,28510,Personal,Yes,Rejected,Salaried applicant requesting Personal loan of 28510 INR
+APP0249,38,,765,unemployd,17651,Car,No,Approved,manual review needed
