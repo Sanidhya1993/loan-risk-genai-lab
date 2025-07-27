@@ -52,7 +52,14 @@ if __name__ == "__main__":
 
     print(f"💾 Saving model to {MODEL_PATH}...")
     os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
-    joblib.dump(model, MODEL_PATH)
+    # Save the trained model
+    joblib.dump(model, "models/model.pkl")
+    print("✅ Model saved to models/model.pkl")
+
+    # Save the feature columns used in training
+    joblib.dump(X_train.columns.tolist(), "models/feature_columns.pkl")
+    print("✅ Feature columns saved to models/feature_columns.pkl")
+
 
     print("✅ Training complete.")
 
