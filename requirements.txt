@@ -5,7 +5,7 @@ shap
 lime
 openai
 streamlit
-pytest
+pytest>=7.0.0
 pyyaml
 openpyxl
 
